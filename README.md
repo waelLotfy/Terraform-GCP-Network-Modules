@@ -32,13 +32,13 @@ Compute Engine virtual machines using reusable Terraform modules.
 ---
 
 ## 📂 Project Structure
-tfinfra
-  provider.tf 
-  mynetwork.tf 
-  variables.tf 
-  instance 
-    main.tf 
-    variables.tf
+- tfinfra
+-- provider.tf 
+-- mynetwork.tf 
+-- variables.tf 
+-- instance 
+---- main.tf 
+---- variables.tf
 
 
 ---
